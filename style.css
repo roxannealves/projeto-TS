@@ -1,8 +1,14 @@
 header {
     background-color:rgb(62, 47, 165);
-    color: white;
+    color: aliceblue;
 }
-.cabecalho-imagem{
-    width: 90
-;
+.cabecalho{
+    width: 100%;
+    font-family:Arial;
+    text-align: center;
+}
+.corpo{
+    background-color: midnightblue;
+    width: 40%;
+    
 }
